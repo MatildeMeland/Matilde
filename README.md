@@ -1,3 +1,10 @@
+<!-- Navigation -->
+<nav class="w3-bar w3-blue">
+  <a href="#cv" class="w3-button w3-bar-item">CV</a>
+  <a href="#søknad" class="w3-button w3-bar-item">Søknad</a>
+  <a href="#pres" class="w3-button w3-bar-item">Presentasjon</a>
+</nav>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MatildeMeland/Matilde.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
