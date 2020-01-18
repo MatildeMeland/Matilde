@@ -6,18 +6,12 @@
 </nav>
 
 ## Om meg
+Glad i å jobbe i team da dette etter min erfaring ofte fører til en god utveksling av ideer og tanker som igjen leder til et bedre resultat enn en selv kunne oppnådd på egenhånd. 
 
+- Kreativ
+- Tenke nytt
+- Strukturert
+- Jobber bra under press
 
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
