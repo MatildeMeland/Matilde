@@ -5,7 +5,7 @@
   <a href="#pres" class="w3-button w3-bar-item">Presentasjon</a>
 </nav>
 
-## Welcome to GitHub Pages
+## Søknad
 
 You can use the [editor on GitHub](https://github.com/MatildeMeland/Matilde.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
