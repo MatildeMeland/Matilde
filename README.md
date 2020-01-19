@@ -9,7 +9,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("pic_trulli.jpg");
+  background-image: url("1_5TRuG7tG0KrZJXKoFtHlSg.jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
@@ -44,15 +44,10 @@ body {
 <div class="hero-image">
   <div class="hero-text">
     <h1 style="font-size:50px">Om meg</h1>
-    <h3>And I'm a Photographer</h3>
+    <h3>Glad i å jobbe i team da dette etter min erfaring ofte fører til en god utveksling av ideer og tanker som igjen leder til et bedre resultat enn en selv kunne oppnådd på egenhånd.</h3>
   </div>
 </div>
-  
-<div class="jumbotron text-center">
-  <h1>Om meg</h1>
-  <p>Glad i å jobbe i team da dette etter min erfaring ofte fører til en god utveksling av ideer og tanker som igjen leder til et bedre resultat enn en selv kunne oppnådd på egenhånd.</p>
 
-</div>
   
 <div class="container">
   <div class="row">
