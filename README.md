@@ -10,6 +10,10 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+  
+div {
+  background-image: url('pic_trulli.jpg');
+}
 
 <div class="jumbotron text-center">
   <h1>Om meg</h1>
