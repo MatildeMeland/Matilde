@@ -9,7 +9,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("1_5TRuG7tG0KrZJXKoFtHlSg.jpg");
+  background-image: url("1_5TRuG7tG0KrZJXKoFtHlSg.jpeg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
