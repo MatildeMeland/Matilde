@@ -44,7 +44,7 @@ body {
 <div class="hero-image">
   <div class="hero-text">
     <h1 style="font-size:50px">Om meg</h1>
-    <h3>Glad i å jobbe i team da dette etter min erfaring ofte fører til en god utveksling av ideer og tanker som igjen leder til et bedre resultat enn en selv kunne oppnådd på egenhånd.</h3>
+    <p>Glad i å jobbe i team da dette etter min erfaring ofte fører til en god utveksling av ideer og tanker som igjen leder til et bedre resultat enn en selv kunne oppnådd på egenhånd.</p>
   </div>
 </div>
 
