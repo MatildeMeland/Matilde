@@ -11,10 +11,6 @@
 </head>
 <body>
   
-div {
-  background-image: url('pic_trulli.jpg');
-}
-
 <div class="jumbotron text-center">
   <h1>Om meg</h1>
   <p>Glad i å jobbe i team da dette etter min erfaring ofte fører til en god utveksling av ideer og tanker som igjen leder til et bedre resultat enn en selv kunne oppnådd på egenhånd.</p>
