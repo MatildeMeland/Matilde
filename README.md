@@ -82,7 +82,7 @@ li a:hover {
   
 <div class="hero-image">
   <div class="hero-text">
-    <h1 style="font-size:50px">Om meg</h1>
+    <h1 style="color:white;">Om meg</h1>
   </div>
 </div>
 
