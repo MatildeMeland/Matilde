@@ -16,6 +16,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  opacity: 0.5;
 }
 
 .hero-text {
