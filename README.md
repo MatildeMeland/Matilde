@@ -20,7 +20,7 @@ body {
 }
 
 .hero-text {
-  text-align: center;
+  text-align: top;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -111,5 +111,3 @@ li a:hover {
 
 </body>
 </html>
-
-**Bold** and _Italic_ and `Code` text
