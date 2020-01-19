@@ -27,23 +27,24 @@ body {
   color: white;
 }
 
-  <title>Bootstrap Example</title>
+</style>
+
+<title>Bootstrap Example</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-</style>
+  
 </head>
 
 <body>
   
 <div class="hero-image">
   <div class="hero-text">
-    <h1 style="font-size:50px">I am Jane Doe</h1>
+    <h1 style="font-size:50px">Om meg</h1>
     <h3>And I'm a Photographer</h3>
-    <button>Hire me</button>
   </div>
 </div>
   
