@@ -41,6 +41,12 @@ body {
 </head>
 
 <body>
+ 
+ ul {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
   
 <div class="hero-image">
   <div class="hero-text">
