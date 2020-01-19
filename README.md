@@ -73,15 +73,11 @@ li a:hover {
 
 <body>
  
-<div class="header">
-  <h2>Scroll Down</h2>
-  <p>Scroll down to see the sticky effect.</p>
-</div>
 
 <ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
+  <li><a class="active" href="#home">Om meg</a></li>
+  <li><a href="#cv">CV</a></li>
+  <li><a href="#pres">Presentasjon</a></li>
 </ul>
   
 <div class="hero-image">
