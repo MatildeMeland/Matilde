@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -12,24 +11,25 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h1>My First Bootstrap Page</h1>
-  <p>Resize this responsive page to see the effect!</p> 
+  <h1>Om meg</h1>
 </div>
   
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
+      <h3>Ferdigheter</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <h3>Egenskaper</h3>
+      <p>- Kreativ</p>
+      <p>- Tenke nytt</p>
+      <p>- Strukturert</p>
+      <p>- Jobber bra under press</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>        
+      <h3>Erfaring</h3>        
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
@@ -43,10 +43,7 @@
 ## Om meg
 Glad i å jobbe i team da dette etter min erfaring ofte fører til en god utveksling av ideer og tanker som igjen leder til et bedre resultat enn en selv kunne oppnådd på egenhånd. 
 
-- Kreativ
-- Tenke nytt
-- Strukturert
-- Jobber bra under press
+
 
 
 **Bold** and _Italic_ and `Code` text
